@@ -7,8 +7,6 @@ django-cleanup        9.0.0<br>
 django-htmx           1.23.2<br>
 pillow                11.3.0<br>
 
-<br><br>
-
 ## Setup
 
 #### - Create Virtual Environment
